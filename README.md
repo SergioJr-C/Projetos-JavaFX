@@ -21,8 +21,9 @@ http://download.eclipse.org/efxclipse/updates-nightly/site
 Caso não compile, clique com o botão direito na pasta e vá em java compiler,
 defina o java 1.8 como principal.
 
+Crie um pacote para a API, FX_CG_2D_API.java e outro pacote para as classes dos seus projetos.
 
-==============================================================================
+============================================================================
 
 
 JavaFX projects, game development with Api
@@ -42,6 +43,8 @@ Update Sites: Runtime Updatesite: http://download.eclipse.org/efxclipse/runtime-
 IDE Updatesite: http://download.eclipse.org/efxclipse/updates-nightly/site
 
 If it doesn't compile, right click on the folder and go to java compiler, set java 1.8 as main.
+
+Create a package for the API, FX_CG_2D_API.java and another package for your project classes.
 
 
 
